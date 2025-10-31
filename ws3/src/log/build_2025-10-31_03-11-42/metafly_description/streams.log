@@ -1,0 +1,18 @@
+[0.482s] Invoking command in '/home/kseelams/ece569-fall2025/lab3/ws3/src/build/metafly_description': PYTHONPATH=/home/kseelams/ece569-fall2025/lab3/ws3/src/build/metafly_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kseelams/ece569-fall2025/lab3/ws3/src/install/metafly_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kseelams/ece569-fall2025/lab3/ws3/src/build/metafly_description/build --no-deps symlink_data
+[0.699s] running develop
+[0.844s] running egg_info
+[0.844s] writing metafly_description.egg-info/PKG-INFO
+[0.844s] writing dependency_links to metafly_description.egg-info/dependency_links.txt
+[0.845s] writing entry points to metafly_description.egg-info/entry_points.txt
+[0.845s] writing requirements to metafly_description.egg-info/requires.txt
+[0.845s] writing top-level names to metafly_description.egg-info/top_level.txt
+[0.847s] reading manifest file 'metafly_description.egg-info/SOURCES.txt'
+[0.847s] writing manifest file 'metafly_description.egg-info/SOURCES.txt'
+[0.849s] running build_ext
+[0.849s] Creating /home/kseelams/ece569-fall2025/lab3/ws3/src/install/metafly_description/lib/python3.10/site-packages/metafly-description.egg-link (link to .)
+[0.850s] 
+[0.850s] Installed /home/kseelams/ece569-fall2025/lab3/ws3/src/build/metafly_description
+[0.850s] running symlink_data
+[0.850s] creating /home/kseelams/ece569-fall2025/lab3/ws3/src/install/metafly_description/share/metafly_description/launch
+[0.850s] creating /home/kseelams/ece569-fall2025/lab3/ws3/src/install/metafly_description/share/metafly_description/urdf
+[0.872s] Invoked command in '/home/kseelams/ece569-fall2025/lab3/ws3/src/build/metafly_description' returned '0': PYTHONPATH=/home/kseelams/ece569-fall2025/lab3/ws3/src/build/metafly_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kseelams/ece569-fall2025/lab3/ws3/src/install/metafly_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kseelams/ece569-fall2025/lab3/ws3/src/build/metafly_description/build --no-deps symlink_data
